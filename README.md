@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola mi nombre Es Pablo Nicolas Rudyk,
 
-<!--
-**profpablonicolas/profpablonicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy de **Argentina** y hoy en dia mi profesion es docente en el area **tecnica**,
+### **Areas**
+* **Electricidad**
+* **Informatica**
 
-Here are some ideas to get you started:
+## Estudiante de **Licenciatura en Sistemas**. 
+### Lenguajes
+* **C**
+* **Phyton**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me gusta mucho la **tecnologia** y la **informatica** e investigar sobre nuevos avances tecnologicos.
+
+
+
+ 
+
+ 
