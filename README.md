@@ -6,14 +6,17 @@
 * **Informatica**
 
 ## Estudiante de **Licenciatura en Sistemas**. 
-### Lenguajes
+### Lenguajes usados
 * **C**
 * **Phyton**
+* **Java**
 
-## Me gusta mucho la **tecnologia** y la **informatica** e investigar sobre nuevos avances tecnologicos.
+## Me gusta mucho la **tecnologia** , la **informatica** e investigar sobre nuevos avances tecnologicos.
 
-
-
+## Tengo mucho interes y ganas en especializarme en :
+* **Dev Full-Stack**
+* **Blockchain**
+* **Cyberseguridad**
  
 
  
